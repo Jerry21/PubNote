@@ -93,6 +93,9 @@
 - [PaintCode](http://www.paintcodeapp.com/)
 - [实时看效果](https://github.com/johnno1962/injectionforxcode)
 
+# 运行时
+[Runtime全方位装逼指南](https://zhuanlan.zhihu.com/p/21304667?refer=lishichao)
+
 #Android开源框架
 - [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
 - [Trinea](https://github.com/Trinea/android-open-project)
