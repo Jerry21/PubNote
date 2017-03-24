@@ -68,6 +68,8 @@
 - [官方开源](http://www.opensource.apple.com/tarballs/)
 - [forkingdog](https://github.com/forkingdog)
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
+- [GPUImage强大的直播滤镜](https://github.com/BradLarson/GPUImage)
+
 #原理类
 -[Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 - [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
@@ -96,6 +98,7 @@
 # 运行时
 [Runtime全方位装逼指南](https://zhuanlan.zhihu.com/p/21304667?refer=lishichao)
 
+[一个热爱苍老师的iOS开发者写的runtime实例](https://github.com/ianisme/IANRuntimeStudy)
 #Android开源框架
 - [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
 - [Trinea](https://github.com/Trinea/android-open-project)
