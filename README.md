@@ -99,12 +99,21 @@
 [Runtime全方位装逼指南](https://zhuanlan.zhihu.com/p/21304667?refer=lishichao)
 
 [一个热爱苍老师的iOS开发者写的runtime实例](https://github.com/ianisme/IANRuntimeStudy)
+
+
 #Android开源框架
 - [告青](https://github.com/yugaoqing/AndroidNote/blob/master/AndroidShare.md)
 - [Trinea](https://github.com/Trinea/android-open-project)
 - [hehonghui](https://github.com/hehonghui/android-tech-frontier)
 
-
+# nil/Nil/NULL/NSNULL区别
+```
+标志	      	值	                 含义
+NULL	       (void *)0	          C指针的字面零值
+nil	          (id)0	             	Objective-C对象的字面零值
+Nil	          (Class)0	          Objective-C类的字面零值
+NSNull	      [NSNull null]	    	用来表示零值的单独的对象
+```
 #python
 - [start](http://python.xiaoleilu.com/index.html)
 
