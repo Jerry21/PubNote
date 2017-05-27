@@ -70,6 +70,9 @@
 - [YepChat社交框架](https://github.com/CatchChat/Yep)
 - [GPUImage强大的直播滤镜](https://github.com/BradLarson/GPUImage)
 
+# 网络类
+- [从 NSURLConnection 到 NSURLSession](http://itangqi.me/2016/04/01/from-nsurlconnection-to-nsurlsession/)
+
 #原理类
 -[Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
 - [objective-c-associated-objects-implementation-principle](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/)
