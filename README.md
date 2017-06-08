@@ -61,7 +61,7 @@
 [老谭笔记](http://www.tanhao.me/) | <http://www.tanhao.me/atom.xml>
 [coderyi](http://www.coderyi.com/)|<http://www.coderyi.com/feed>
 [果冻虾仁](https://github.com/guodongxiaren)|学生，bash,linux
-
+[SamirChen浙江 杭州](http://www.samirchen.com/ios-index/)| 大神
 
 #开源框架_33个2017年必须了解的iOS开源库
 - [YYKit](https://github.com/ibireme/YYKit)
@@ -72,6 +72,7 @@
 
 # 网络类
 - [从 NSURLConnection 到 NSURLSession](http://itangqi.me/2016/04/01/from-nsurlconnection-to-nsurlsession/)
+- [《图解 HTTP》读书笔记](http://itangqi.me/2016/04/04/the-notes-of-learning-illustrating-http-one/)
 
 #原理类
 -[Objective-C Autorelease Pool 的实现原理](http://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
@@ -102,6 +103,8 @@
 [Runtime全方位装逼指南](https://zhuanlan.zhihu.com/p/21304667?refer=lishichao)
 
 [一个热爱苍老师的iOS开发者写的runtime实例](https://github.com/ianisme/IANRuntimeStudy)
+
+[Objective-C 的 Runtime-详细、底层剖析、示例](http://www.samirchen.com/objective-c-runtime/)
 
 
 #Android开源框架
@@ -147,6 +150,8 @@ NSNull	      [NSNull null]	    	用来表示零值的单独的对象
 #GitBook
 - [GitBook](https://www.gitbook.com/explore)
 
+# 音视频
+- [关于视频的一些概念](http://www.samirchen.com/video-concept/)
 
 #机器学习
 - [index](https://github.com/ty4z2008/Qix/blob/master/dl.md)
