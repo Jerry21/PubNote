@@ -1,3 +1,6 @@
+# Github.com
+[一香的仿各种UI Demo](https://github.com/yixiangboy)
+
 # iOS技术团队
 - [Chinamobo Team](https://github.com/Chinamobo)
 - [美团点评技术团队](http://tech.meituan.com)
@@ -98,6 +101,10 @@
 #UI
 - [PaintCode](http://www.paintcodeapp.com/)
 - [实时看效果](https://github.com/johnno1962/injectionforxcode)
+
+#动画
+- [颜色渐变的动画](http://www.itstrike.cn/Question/e3516e3c-bc26-4ae7-9de2-27465d9bff3a.html)
+- [动起来的线条](http://www.jianshu.com/p/c5cbb5e05075)
 
 # 运行时
 [Runtime全方位装逼指南](https://zhuanlan.zhihu.com/p/21304667?refer=lishichao)
